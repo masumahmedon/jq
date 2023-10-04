@@ -1,0 +1,54 @@
+
+/*body*/
+body{
+    font-family: roboto;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+/* header start */
+header{
+}
+.h_h2{
+    font-family: loto;
+    font-size: 30px;
+    font-weight: 400;
+    color: #333333;
+    text-transform: uppercase;
+}
+.menu{}
+.menu ul li a{
+    padding: 0px 15px !important;
+    font-size: 16px;
+    font-weight: 400;
+    /* color: #8e8e8e !important; */
+    text-transform: uppercase;
+}
+.menu ul li a:hover{
+    color: #333333;
+
+}
+/* header end */
+.mb_200{
+    margin-bottom: 200px;
+}
+.box{
+    height: 400px;
+}
+
+/* parallax */
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+
+/**
+ * Text 1
+ */
+#text1
+{
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
